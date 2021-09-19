@@ -46,9 +46,12 @@ p{
 #grid #picture{
   padding-left: 10em;
   padding-top: 5em;
-
+  width: 1100px;
 }
-
+figure{
+  margin: 0;
+  width: 1100px;
+}
 figcaption{
   padding-left: 25em;
   font-weight: bold;
